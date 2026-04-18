@@ -21,6 +21,7 @@
   pressure, compression pressure, and homeostatic persistence behavior.
 
   **[PDF](The%20Root%20Theorem%20of%20Context%20Engineering.pdf)**
+  arXiv preprint: `7419948` (currently on hold)
 
   ### 2. On the Incompleteness of Self-Compressing Systems
   *Prognosis: a bounded lossy system cannot fully certify the fidelity of its own compressed state.*
@@ -29,6 +30,7 @@
   fully validate the fidelity of its own output, motivating externally anchored verification.
 
   **[PDF](On%20the%20Incompleteness%20of%20Self-Compressing%20Systems.pdf)**
+  arXiv preprint: `7442484` (currently on hold)
 
   ### 3. Gate Calibration: A Fidelity Management Framework for Persistent AI Systems
   *Treatment: fidelity in persistent AI systems should be managed through calibrated external gating rather than token-count compression alone.*
@@ -37,7 +39,7 @@
   positions, human review as measurement infrastructure, provenance-aware compression, and two-pass memory architecture.
 
   **[PDF](Gate%20Calibration%20-%20A%20Fidelity%20Management%20Framework%20for%20Persistent%20AI%20Systems.pdf)**
-  arXiv preprint: `7494978`
+  arXiv preprint: `7494978` (currently on hold)
 
   ## Contact
 
